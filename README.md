@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Tymofii 👋
 
-<!--
-**TymofiiKotliar/TymofiiKotliar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Second-year Informatics student at STU FIIT (Bratislava), originally from Kyiv. I write C, Java, and Python for a living (well, for a GPA), and Rust, C++, and C# whenever I want to feel bad about myself.
 
-Here are some ideas to get you started:
+When I'm not debugging, I'm in Blender, Unity, or Unreal, trying to convince myself that "interior design visualization artist" is a realistic career and not just an elaborate way to procrastinate on assignments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/TymofiiKotliar/count.svg" alt="Visitor's Count" />
+</div>
+
+---
+<sub>README co-written by an AI. It's more consistent than I am about updating this.</sub>
