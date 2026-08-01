@@ -4,6 +4,8 @@ Third-year Informatics student at STU FIIT (Bratislava), originally from Kyiv. I
 
 When I'm not debugging, I'm in Blender, Unity, or SketchUp, trying to convince myself that "interior design visualization artist" is a realistic career and not just an elaborate way to procrastinate on assignments.
 
+Currently deep in OSINT and databases for my bachelor project — turns out finding people on the internet is easier than normalizing a schema. I mostly build tools I actually use myself (the highest bar for "does this work"), and I've got a soft spot for blockchain, mostly because it combines two of my favorite things: cryptography and yelling at gas fees.
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,python,rust,cpp,cs,unity,blender" alt="Tech stack" />
 </p>
