@@ -19,4 +19,4 @@ Currently deep in OSINT and databases for my bachelor project — turns out find
   <img src="https://komarev.com/ghpvc/?username=TymofiiKotliar&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Visitor's Count" />
 </p>
 
-<sub>README co-written by an AI. It's more consistent than I am about updating this.</sub>
+<sub>Written by an AI. The typos are still mine.</sub>
